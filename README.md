@@ -20,7 +20,7 @@ All routers are mounted under their own prefixes (`/auth`, `/users`, `/predictio
 
 ### 🔧 Prerequisites
 
-- Python 3.12+
+- Python 3.10
 - MySQL 8 (or the database configured via `DATABASE_URL`)
 - Poetry or pip for dependency management
 
